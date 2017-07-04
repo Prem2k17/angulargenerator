@@ -1,0 +1,35 @@
+{
+  "name": "angulargenerator",
+  "version": "1.0.0",
+  "description": "Generate Angular Modules using gulp",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Prem2k17/angulargenerator.git"
+  },
+  "keywords": [
+    "Angular",
+    "generator",
+    "gulp"
+  ],
+  "author": "PREMKUMAR M",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Prem2k17/angulargenerator/issues"
+  },
+  "homepage": "https://github.com/Prem2k17/angulargenerator#readme",
+  "devDependencies": {
+    "expressjs": "^1.0.1",
+    "gulp": "^3.9.1",
+    "gulp-data": "^1.2.1",
+    "gulp-debug": "^3.1.0",
+    "gulp-rename": "^1.2.2",
+    "gulp-template": "^4.0.0",
+    "minimist": "^1.2.0",
+    "wrench": "^1.5.9"
+  }
+}
