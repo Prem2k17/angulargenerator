@@ -12,4 +12,4 @@ Angular Modules generator using gulp tasks
 Here samplemodule is the custom module name
 
 Note: 
-File which are created using this, based on john papa angular styleguide principles.
+Files and Folders which are created using this module is based on john papa angular-styleguide principles.
